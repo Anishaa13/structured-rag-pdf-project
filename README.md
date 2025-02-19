@@ -1,4 +1,4 @@
-```markdown
+
 # 📄 Structured RAG for PDFs
 
 ## 🚀 Project Overview
