@@ -139,7 +139,6 @@ This repository contains a web application that allows users to upload a PDF doc
 
 3. **Open** [http://localhost:8501](http://localhost:8501) in your browser.
 
-```
 
 ---
 
